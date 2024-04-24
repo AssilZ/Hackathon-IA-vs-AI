@@ -1,4 +1,4 @@
-# Hackathon-AI-vs-IA
+# Hackathon-IA-vs-AI
 analyse_datasets : Petite analyse des datasets. 
 bayesien_naif_dataset1 : implémentation en bayesien_naif du dataset 1
 bayesien_naif_dataset2 : implémentation en bayesien_naif du dataset 2

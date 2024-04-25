@@ -24,8 +24,3 @@ Pour utiliser un modèle pré-entraîné, il suffit de le télécharger et de le
 
 - Python 3.x
 - Bibliothèques Python : numpy, pandas, scikit-learn, torch, transformers
-
-## Installation
-
-1. Clonez ce dépôt : `git clone https://github.com/votre_username/Hackathon-IA-vs-AI.git`
-2. Accédez au répertoire du projet : `cd Hackathon-IA-vs-AI`

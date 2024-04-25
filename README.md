@@ -29,7 +29,3 @@ Pour utiliser un modèle pré-entraîné, il suffit de le télécharger et de le
 
 1. Clonez ce dépôt : `git clone https://github.com/votre_username/Hackathon-IA-vs-AI.git`
 2. Accédez au répertoire du projet : `cd Hackathon-IA-vs-AI`
-
-## Utilisation
-
-Chaque dossier contient un script principal qui peut être exécuté pour lancer l'entraînement et l'évaluation du modèle correspondant. Assurez-vous d'avoir les datasets nécessaires et les modèles pré-entraînés (si utilisés) avant d'exécuter les scripts.
